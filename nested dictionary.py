@@ -1,0 +1,11 @@
+a={
+    "name":"Ayshee",
+    "subj":{
+        "DLD":"A",
+        "TOC":"A",
+        "EEE":"F",
+    }
+}
+print(a)
+print(a["subj"])
+print(a["subj"]["DLD"])
