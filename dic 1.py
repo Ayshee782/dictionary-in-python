@@ -46,4 +46,5 @@ LLB={
     "Law of International Trade":"MAM",
     "Comparative Constitutional Law":"SIR",
 }
-print (CSE)
+print (CSE) 
+print (CSE.keys())
